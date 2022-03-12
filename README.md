@@ -1,4 +1,3 @@
 # git_test
 test repo
-Testing!@#
-Testing2
+Hello!
